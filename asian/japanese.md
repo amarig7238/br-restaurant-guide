@@ -2,8 +2,8 @@
 ## Asian --> Japanese
 ---
 Select a restaurant:
-## Bayridge Sushi http://www.brsushi.com/
-## Sapporo Japanese Cuisine https://sapporobk.com/ 
+## [Bayridge Sushi](http://www.brsushi.com/)
+## [Sapporo Japanese Cuisine](https://sapporobk.com/)
 ---
 [Back to Asian](asian/asian.md)
 [Start Over](../home.md)
